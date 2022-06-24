@@ -14,7 +14,7 @@ export default function Kotama() {
 					<SideBar />
 				</div>
 
-				<div className="kotamaContainer pb-20 w-full bg-gray-100 basis-5/6">
+				<div className="kotamaContainer pt-10 pb-20 w-full bg-gray-100 basis-5/6">
 					<div className="h1">Daftar Nama Kota Madya</div>
 					<div>
 						<div className="kotamaSearch flex justify-end items-center mr-10">
